@@ -8,7 +8,7 @@ import org.junit.Before;
 
 
 public class MyTestCases {
-//Test Change
+
    @Test
     public void test_JUnit() {
         System.out.println("This is the testcase in this class");

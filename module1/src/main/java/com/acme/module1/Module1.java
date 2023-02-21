@@ -1,7 +1,7 @@
 package com.acme.module1;
 
 public class Module1 {
-//Test Change
+
   public void coveredByUnitTest() {
     System.out.println("This method is covered by unit test");
   }
